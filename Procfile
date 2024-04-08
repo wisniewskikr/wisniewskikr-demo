@@ -1,1 +1,0 @@
-web: mvn clean package wildfly:run
